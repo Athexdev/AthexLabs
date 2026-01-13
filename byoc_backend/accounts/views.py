@@ -20,12 +20,12 @@ def debesh(requests):
 def health_check(request):
     return JsonResponse({
         "status": "ok",
-        "message": "BYOC backend is healthy"
+        "message": "BYOC backend is running Well"
     })
 
 def hello_world(request):
     return JsonResponse({
-        "message": "Nikal MadarChod!"
+        "message": "api test sahi hai!"
     })
 
 @csrf_exempt
