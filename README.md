@@ -1,6 +1,6 @@
-# BYOC Project Setup
+# Bring Your Own Cloud Project Setup
 
-this is my first full stack project
+this is my first full stack project on cloud management
 - **Backend**: Django (in `byoc_backend`)
 - **Frontend**: React + Tailwind (in `byoc_frontend`)
 
